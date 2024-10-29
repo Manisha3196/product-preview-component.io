@@ -39,8 +39,8 @@ Desktop Screenshot:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL:https://github.com/Manisha3196/product-preview-component.io
+- Live Site URL: https://manisha3196.github.io/product-preview-component.io/
 
 ## My process
 
